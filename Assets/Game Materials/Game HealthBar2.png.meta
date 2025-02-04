@@ -1,34 +1,10 @@
 fileFormatVersion: 2
-guid: 23e2f1bde4611534081536f78e5eb2b7
+guid: f271864a5ec33e74c9b67bb5268be01f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5704318538476295344
-    second: Game-Elements-Unity-FinalHas-Ganado_0
-  - first:
-      213: 4724640897003869096
-    second: Game-Elements-Unity-FinalHas-Ganado_1
-  - first:
-      213: 4819184684651242244
-    second: Game-Elements-Unity-FinalHas-Ganado_2
-  - first:
-      213: 967688089773758662
-    second: Game-Elements-Unity-FinalHas-Ganado_3
-  - first:
-      213: -8421172905561680516
-    second: Game-Elements-Unity-FinalHas-Ganado_4
-  - first:
-      213: 2059401300386657958
-    second: Game-Elements-Unity-FinalHas-Ganado_5
-  - first:
-      213: -7015409577312450390
-    second: Game-Elements-Unity-FinalHas-Ganado_6
-  - first:
-      213: 642042391771581822
-    second: Game-Elements-Unity-FinalHas-Ganado_7
-  - first:
-      213: 6780642561375378975
-    second: Game-Elements-Unity-FinalHas-Ganado_8
+      213: -345765489373240375
+    second: Game HealthBar2_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -122,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalHas-Ganado_0
+      name: Game HealthBar2_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 389
-        width: 1843
-        height: 320
+        x: 0
+        y: 34
+        width: 1050
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c45368109bab309458a90a8d54a3b592
-      internalID: -347956335
+      spriteID: e4a47eaf3a3070e4d9d35e29f020d224
+      internalID: 270517459
       vertices: []
       indices: 
       edges: []
@@ -145,7 +121,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c4ecc68104c3ec04890fa50ec71a57cf
+    spriteID: d02710be196f7a340b31ddb85607df01
     internalID: 0
     vertices: []
     indices: 
@@ -153,7 +129,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Game-Elements-Unity-FinalHas-Ganado_0: -347956335
+      Game HealthBar2_0: 270517459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

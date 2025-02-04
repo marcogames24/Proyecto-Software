@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: 82f498219ec3f8b46ad3d1d9067dcb62
+guid: d1b75efe356e8ef489a31f70d12071b1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4230368162859328902
-    second: Game-Elements-UnityJugar_0
+      213: -7245876373047239178
+    second: Game-Elements-Unity-SoftwareSalir_0
+  - first:
+      213: -8454839043935006509
+    second: Game-Elements-Unity-SoftwareSalir_1
+  - first:
+      213: -2467318081823688234
+    second: Game-Elements-Unity-SoftwareSalir_2
+  - first:
+      213: 4008193883597605296
+    second: Game-Elements-Unity-SoftwareSalir_3
+  - first:
+      213: -6519047682709452199
+    second: Game-Elements-Unity-SoftwareSalir_4
+  - first:
+      213: -1069833914529631597
+    second: Game-Elements-Unity-SoftwareSalir_5
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,22 +113,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game-Elements-UnityJugar_0
+      name: Game-Elements-Unity-SoftwareSalir_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 267
-        width: 1851
-        height: 546
+        x: 555
+        y: 447
+        width: 760
+        height: 288
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7ad5afb196ba45c0800000000000000
-      internalID: -4230368162859328902
+      spriteID: 83d5b0faf2067c54cb699aa3a1fe5dfa
+      internalID: 1473040593
       vertices: []
       indices: 
       edges: []
@@ -121,14 +136,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 00ab944567fa63344aca23dceef14386
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game-Elements-Unity-SoftwareSalir_0: 1473040593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

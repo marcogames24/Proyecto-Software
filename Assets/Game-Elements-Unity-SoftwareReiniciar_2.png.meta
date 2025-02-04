@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 75f9742bec31ccd4fa1d08c3dafd5221
+guid: f040eadee80cf3a40aa224ceb407f0fe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7622398365738925278
-    second: Game-Elements-Unity-FinalReiniciar_1_0
+      213: 203595955633619843
+    second: Game-Elements-Unity-SoftwareReiniciar_2_0
   - first:
-      213: -3259420084397930961
-    second: Game-Elements-Unity-FinalReiniciar_1_1
+      213: -2918762272015185109
+    second: Game-Elements-Unity-SoftwareReiniciar_2_1
   - first:
-      213: 1921099060781849552
-    second: Game-Elements-Unity-FinalReiniciar_1_2
+      213: 9156033344683302679
+    second: Game-Elements-Unity-SoftwareReiniciar_2_2
   - first:
-      213: -598713559655824728
-    second: Game-Elements-Unity-FinalReiniciar_1_3
+      213: -4737362660751498233
+    second: Game-Elements-Unity-SoftwareReiniciar_2_3
   - first:
-      213: 6672227265879504077
-    second: Game-Elements-Unity-FinalReiniciar_1_4
+      213: 1714601542323094796
+    second: Game-Elements-Unity-SoftwareReiniciar_2_4
   - first:
-      213: -7484124282491413600
-    second: Game-Elements-Unity-FinalReiniciar_1_5
+      213: 3211666506937922927
+    second: Game-Elements-Unity-SoftwareReiniciar_2_5
   - first:
-      213: -6864547436486199710
-    second: Game-Elements-Unity-FinalReiniciar_1_6
+      213: 7256898907265931491
+    second: Game-Elements-Unity-SoftwareReiniciar_2_6
   - first:
-      213: 918960748548083653
-    second: Game-Elements-Unity-FinalReiniciar_1_7
+      213: 2750956378787935320
+    second: Game-Elements-Unity-SoftwareReiniciar_2_7
   - first:
-      213: 7059217408495558780
-    second: Game-Elements-Unity-FinalReiniciar_1_8
+      213: 5223654222907104476
+    second: Game-Elements-Unity-SoftwareReiniciar_2_8
   - first:
-      213: -6285212902644475557
-    second: Game-Elements-Unity-FinalReiniciar_1_9
+      213: 1366618691377771241
+    second: Game-Elements-Unity-SoftwareReiniciar_2_9
   - first:
-      213: 2491129305769921147
-    second: Game-Elements-Unity-FinalReiniciar_1_10
+      213: 4664175818448706971
+    second: Game-Elements-Unity-SoftwareReiniciar_2_10
   - first:
-      213: -2598120161841872577
-    second: Game-Elements-Unity-FinalReiniciar_1_11
+      213: 6239134590425674767
+    second: Game-Elements-Unity-SoftwareReiniciar_2_11
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -131,13 +131,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_0
+      name: Game-Elements-Unity-SoftwareReiniciar_2_0
       rect:
         serializedVersion: 2
-        x: 178
-        y: 387
-        width: 349
-        height: 307
+        x: 324
+        y: 400
+        width: 314
+        height: 277
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: edcf26eade238c960800000000000000
-      internalID: 7622398365738925278
+      spriteID: 3838f35617153d200800000000000000
+      internalID: 203595955633619843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_1
+      name: Game-Elements-Unity-SoftwareReiniciar_2_1
       rect:
         serializedVersion: 2
-        x: 682
-        y: 629
-        width: 63
-        height: 61
+        x: 777
+        y: 616
+        width: 58
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2600bfc3b634c2d0800000000000000
-      internalID: -3259420084397930961
+      spriteID: b2b09b88d297e77d0800000000000000
+      internalID: -2918762272015185109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_2
+      name: Game-Elements-Unity-SoftwareReiniciar_2_2
       rect:
         serializedVersion: 2
-        x: 946
-        y: 629
-        width: 63
-        height: 61
+        x: 1014
+        y: 616
+        width: 58
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0db1d38da6d19aa10800000000000000
-      internalID: 1921099060781849552
+      spriteID: 71fda75f0d3c01f70800000000000000
+      internalID: 9156033344683302679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_3
+      name: Game-Elements-Unity-SoftwareReiniciar_2_3
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 629
-        width: 63
-        height: 61
+        x: 1236
+        y: 616
+        width: 58
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a2418a8031f0b7f0800000000000000
-      internalID: -598713559655824728
+      spriteID: 70425b972c1814eb0800000000000000
+      internalID: -4737362660751498233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_4
+      name: Game-Elements-Unity-SoftwareReiniciar_2_4
       rect:
         serializedVersion: 2
-        x: 509
-        y: 471
-        width: 135
-        height: 146
+        x: 622
+        y: 475
+        width: 122
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc47c6be853889c50800000000000000
-      internalID: 6672227265879504077
+      spriteID: c054185b40d7bc710800000000000000
+      internalID: 1714601542323094796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_5
+      name: Game-Elements-Unity-SoftwareReiniciar_2_5
       rect:
         serializedVersion: 2
-        x: 648
-        y: 468
-        width: 90
-        height: 148
+        x: 747
+        y: 473
+        width: 82
+        height: 133
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ab593f1e9c032890800000000000000
-      internalID: -7484124282491413600
+      spriteID: f65fd030ca1229c20800000000000000
+      internalID: 3211666506937922927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_6
+      name: Game-Elements-Unity-SoftwareReiniciar_2_6
       rect:
         serializedVersion: 2
-        x: 743
-        y: 461
-        width: 159
-        height: 156
+        x: 832
+        y: 467
+        width: 144
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 266fb68f97a3cb0a0800000000000000
-      internalID: -6864547436486199710
+      spriteID: 3e891828b1fa5b460800000000000000
+      internalID: 7256898907265931491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_7
+      name: Game-Elements-Unity-SoftwareReiniciar_2_7
       rect:
         serializedVersion: 2
-        x: 912
-        y: 468
-        width: 90
-        height: 148
+        x: 984
+        y: 473
+        width: 82
+        height: 133
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cf4cb39eedc0cc00800000000000000
-      internalID: 918960748548083653
+      spriteID: 854ff36504c5d2620800000000000000
+      internalID: 2750956378787935320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_8
+      name: Game-Elements-Unity-SoftwareReiniciar_2_8
       rect:
         serializedVersion: 2
-        x: 1015
-        y: 471
-        width: 136
-        height: 147
+        x: 1078
+        y: 477
+        width: 122
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,20 +313,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c70a1a9e4d067f160800000000000000
-      internalID: 7059217408495558780
+      spriteID: cdcd8d1f6d52e7840800000000000000
+      internalID: 5223654222907104476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_9
+      name: Game-Elements-Unity-SoftwareReiniciar_2_9
       rect:
         serializedVersion: 2
-        x: 1159
-        y: 468
-        width: 90
-        height: 148
+        x: 1206
+        y: 473
+        width: 82
+        height: 133
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b599c206a2076c8a0800000000000000
-      internalID: -6285212902644475557
+      spriteID: 9e23bfa857437f210800000000000000
+      internalID: 1366618691377771241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_10
+      name: Game-Elements-Unity-SoftwareReiniciar_2_10
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 465
-        width: 152
-        height: 151
+        x: 1295
+        y: 470
+        width: 138
+        height: 136
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7a4bffa7e4429220800000000000000
-      internalID: 2491129305769921147
+      spriteID: b9d1a9ce13b7ab040800000000000000
+      internalID: 4664175818448706971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_1_11
+      name: Game-Elements-Unity-SoftwareReiniciar_2_11
       rect:
         serializedVersion: 2
-        x: 1430
-        y: 474
-        width: 133
-        height: 145
+        x: 1451
+        y: 478
+        width: 120
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,8 +376,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3182ad6a7f91fbd0800000000000000
-      internalID: -2598120161841872577
+      spriteID: f04bc288adbd59650800000000000000
+      internalID: 6239134590425674767
       vertices: []
       indices: 
       edges: []

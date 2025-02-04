@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: 26fa28f2a33f281418513f0d4b014c22
+guid: 3dec1f5aa788c2b4487958eb79f7d12b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7941347829484675816
-    second: Ether Potion_0
+      213: 6557279519997164357
+    second: Game-Elements-Unity-SoftwareVolumen_0
+  - first:
+      213: 4235398488768411316
+    second: Game-Elements-Unity-SoftwareVolumen_1
+  - first:
+      213: -1212947218251778128
+    second: Game-Elements-Unity-SoftwareVolumen_2
+  - first:
+      213: 1173811255051876539
+    second: Game-Elements-Unity-SoftwareVolumen_3
+  - first:
+      213: -1811674927014520620
+    second: Game-Elements-Unity-SoftwareVolumen_4
+  - first:
+      213: 3887133286445328089
+    second: Game-Elements-Unity-SoftwareVolumen_5
+  - first:
+      213: -5245978152528916004
+    second: Game-Elements-Unity-SoftwareVolumen_6
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,22 +116,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ether Potion_0
+      name: Game-Elements-Unity-SoftwareVolumen_0
       rect:
         serializedVersion: 2
-        x: 735
-        y: 146
-        width: 333
-        height: 585
+        x: 290
+        y: 412
+        width: 1232
+        height: 296
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e2e04e96c5553e60800000000000000
-      internalID: 7941347829484675816
+      spriteID: d3495dc019710074b9d3048f82e23185
+      internalID: 1036195583
       vertices: []
       indices: 
       edges: []
@@ -121,14 +139,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: beeba53814a11474e90a6605595f3a84
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game-Elements-Unity-SoftwareVolumen_0: 1036195583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

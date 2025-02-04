@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ac3c47e6d6b3a2a4694cf2b6ccc4e3bb
+guid: f50f914d921a7a9459a3ca255b7b17f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7207826648258356987
-    second: Game-Elements-Unity-FinalReiniciar_2_0
+      213: 7355854507803855740
+    second: Mesa de trabajo 3_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalReiniciar_2_0
+      name: Mesa de trabajo 3_0
       rect:
         serializedVersion: 2
-        x: 155
-        y: 210
-        width: 1760
-        height: 532
+        x: 0
+        y: 0
+        width: 1915
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50957f32ad7a8fb90800000000000000
-      internalID: -7207826648258356987
+      spriteID: c7bca1da3be351660800000000000000
+      internalID: 7355854507803855740
       vertices: []
       indices: 
       edges: []

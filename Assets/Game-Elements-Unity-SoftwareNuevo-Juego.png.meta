@@ -1,10 +1,55 @@
 fileFormatVersion: 2
-guid: a6d2b98302008464880be9c108ef1ad8
+guid: eb9ca7b979ac48a41ac758deb1310374
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1846372328309432778
-    second: Game Potion_0
+      213: -7556780582419082155
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_0
+  - first:
+      213: 6562663024382800636
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_1
+  - first:
+      213: 9122464855491270450
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_2
+  - first:
+      213: 800386122743039713
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_3
+  - first:
+      213: -6896483706104879776
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_4
+  - first:
+      213: 6857899439483471172
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_5
+  - first:
+      213: -5213593830729042023
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_6
+  - first:
+      213: 4827034684081040800
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_7
+  - first:
+      213: -9120066355959565192
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_8
+  - first:
+      213: -8459032535964706351
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_9
+  - first:
+      213: -2271527692948520396
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_10
+  - first:
+      213: -7373330068961714921
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_11
+  - first:
+      213: 7845642080222639326
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_12
+  - first:
+      213: -6707326254958554436
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_13
+  - first:
+      213: 3605683182793998837
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_14
+  - first:
+      213: -2963273896925417195
+    second: Game-Elements-Unity-SoftwareNuevo-Juego_15
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,22 +143,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game Potion_0
+      name: Game-Elements-Unity-SoftwareNuevo-Juego_0
       rect:
         serializedVersion: 2
-        x: 726
-        y: 146
-        width: 340
-        height: 588
+        x: 29
+        y: 413
+        width: 1874
+        height: 288
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 63e5100662e5066e0800000000000000
-      internalID: -1846372328309432778
+      spriteID: 7feb29c27603fbe4b9e3eb01a761014a
+      internalID: 1751032385
       vertices: []
       indices: 
       edges: []
@@ -121,14 +166,15 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: abdc6a0d275831f4a813d34577572b62
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game-Elements-Unity-SoftwareNuevo-Juego_0: 1751032385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
