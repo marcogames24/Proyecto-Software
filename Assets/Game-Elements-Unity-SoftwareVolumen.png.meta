@@ -1,34 +1,28 @@
 fileFormatVersion: 2
-guid: 23e2f1bde4611534081536f78e5eb2b7
+guid: 7c5598b3e62e4144182310d687fa819d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5704318538476295344
-    second: Game-Elements-Unity-FinalHas-Ganado_0
+      213: 6557279519997164357
+    second: Game-Elements-Unity-SoftwareVolumen_0
   - first:
-      213: 4724640897003869096
-    second: Game-Elements-Unity-FinalHas-Ganado_1
+      213: 4235398488768411316
+    second: Game-Elements-Unity-SoftwareVolumen_1
   - first:
-      213: 4819184684651242244
-    second: Game-Elements-Unity-FinalHas-Ganado_2
+      213: -1212947218251778128
+    second: Game-Elements-Unity-SoftwareVolumen_2
   - first:
-      213: 967688089773758662
-    second: Game-Elements-Unity-FinalHas-Ganado_3
+      213: 1173811255051876539
+    second: Game-Elements-Unity-SoftwareVolumen_3
   - first:
-      213: -8421172905561680516
-    second: Game-Elements-Unity-FinalHas-Ganado_4
+      213: -1811674927014520620
+    second: Game-Elements-Unity-SoftwareVolumen_4
   - first:
-      213: 2059401300386657958
-    second: Game-Elements-Unity-FinalHas-Ganado_5
+      213: 3887133286445328089
+    second: Game-Elements-Unity-SoftwareVolumen_5
   - first:
-      213: -7015409577312450390
-    second: Game-Elements-Unity-FinalHas-Ganado_6
-  - first:
-      213: 642042391771581822
-    second: Game-Elements-Unity-FinalHas-Ganado_7
-  - first:
-      213: 6780642561375378975
-    second: Game-Elements-Unity-FinalHas-Ganado_8
+      213: -5245978152528916004
+    second: Game-Elements-Unity-SoftwareVolumen_6
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -122,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game-Elements-Unity-FinalHas-Ganado_0
+      name: Game-Elements-Unity-SoftwareVolumen_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 389
-        width: 1843
-        height: 320
+        x: 287
+        y: 427
+        width: 1236
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c45368109bab309458a90a8d54a3b592
-      internalID: -347956335
+      spriteID: fcc83cc5ecdd02f458d168f7fe14086e
+      internalID: -813529453
       vertices: []
       indices: 
       edges: []
@@ -145,7 +139,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c4ecc68104c3ec04890fa50ec71a57cf
+    spriteID: 5ba4cd47f52359f429b49ff3bebce6b2
     internalID: 0
     vertices: []
     indices: 
@@ -153,7 +147,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Game-Elements-Unity-FinalHas-Ganado_0: -347956335
+      Game-Elements-Unity-SoftwareVolumen_0: -813529453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
